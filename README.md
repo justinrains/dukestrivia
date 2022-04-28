@@ -1,3 +1,3 @@
 # Dukes of Hazzard trivia
 
-## (My Dukes site)[http://thedukesofhazzard.com/]
+## [My Dukes site](http://thedukesofhazzard.com/)
